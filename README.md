@@ -1,4 +1,4 @@
-📂 File Checker — C++
+# 📂 File Checker — C++
 
 Program do porównywania zawartości dwóch plików tekstowych napisany w C++.
 
